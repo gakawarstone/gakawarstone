@@ -4,9 +4,10 @@
 ---
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gakawarstone&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
 - 🔭 I’m currently working on [GKBot](https://github.com/gakawarstone/gkbot)
 
-- 🌱 I’m currently learning **aiogram-3, django**
+- 🌱 I’m currently learning [Godot](https://github.com/godotengine/godot)
 
 - 💬 Ask me about **chat bots**
 
@@ -16,7 +17,6 @@
 [![Telegram](https://img.shields.io/badge/Gakawarstone-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gakawarstone)
 [![Instagram](https://img.shields.io/badge/gkwstone-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/gkwstone/)
 ![Protonmail](https://img.shields.io/badge/gakawarstone@pm.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
-![Gmail](https://img.shields.io/badge/pinnekerv@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ## Developer tools
 
@@ -68,5 +68,8 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-
-
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![V](https://img.shields.io/badge/lang-4f87c4?style=for-the-badge&logo=v&logoColor=white)
+![Godot](https://img.shields.io/badge/godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![GDScript](https://img.shields.io/badge/gdscript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
