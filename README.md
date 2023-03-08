@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [GKBot](https://github.com/gakawarstone/gkbot)
 
-- 🌱 I’m currently learning [Godot](https://github.com/godotengine/godot)
+- 🌱 I’m currently learning [Unity](https://unity.com)
 
 - 💬 Ask me about **chat bots**
 
@@ -73,3 +73,4 @@
 ![V](https://img.shields.io/badge/lang-4f87c4?style=for-the-badge&logo=v&logoColor=white)
 ![Godot](https://img.shields.io/badge/godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 ![GDScript](https://img.shields.io/badge/gdscript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white)
