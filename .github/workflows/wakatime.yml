@@ -1,15 +1,29 @@
-name: Wakatime Charts
+name: Wakapi Charts
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: '0 0 * * *'
+
+permissions:
+  contents: write
 
 jobs:
   update-charts:
-    name: Update wakatime stats charts
+    name: Update weekly Wakapi chart
     runs-on: ubuntu-latest
     steps:
-      - uses: tw93/wakatime-charts@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+      - uses: actions/checkout@v4
+      - name: Generate chart
+        env:
+          WAKAPI_API_KEY: ${{ secrets.WAKAPI_API_KEY }}
+        run: python3 scripts/wakapi_chart.py
+      - name: Commit chart if changed
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add images/wakapi_weekly.svg
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update weekly Wakapi chart'
+            git push
+          fi

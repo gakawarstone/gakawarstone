@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="352" viewBox="0 0 540 352" role="img" aria-label="Weekly coding languages">
+<rect width="540" height="352" rx="10" fill="#1e1e2e"/>
+<g font-family="Segoe UI, Ubuntu, sans-serif" fill="#cdd6f4">
+<text x="22" y="30" font-size="16" font-weight="600">Weekly coding languages</text>
+<text x="22" y="52" font-size="12" fill="#a6adc8">21 hrs 16 mins · last 7 days</text>
+<text x="22" y="90" font-size="13">Vibecoding</text>
+<text x="518" y="90" font-size="12" fill="#bac2de" text-anchor="end">14 hrs 37 mins · 68.7%</text>
+<rect x="22" y="96" width="496" height="7" rx="3.5" fill="#45475a"/>
+<rect x="22" y="96" width="340.90" height="7" rx="3.5" fill="#cba6f7"/>
+<text x="22" y="124" font-size="13">Elm</text>
+<text x="518" y="124" font-size="12" fill="#bac2de" text-anchor="end">2 hrs 30 mins · 11.7%</text>
+<rect x="22" y="130" width="496" height="7" rx="3.5" fill="#45475a"/>
+<rect x="22" y="130" width="58.18" height="7" rx="3.5" fill="#89b4fa"/>
+<text x="22" y="158" font-size="13">Typst</text>
+<text x="518" y="158" font-size="12" fill="#bac2de" text-anchor="end">1 hrs 14 mins · 5.8%</text>
+<rect x="22" y="164" width="496" height="7" rx="3.5" fill="#45475a"/>
+<rect x="22" y="164" width="28.92" height="7" rx="3.5" fill="#94e2d5"/>
+<text x="22" y="192" font-size="13">Markdown</text>
+<text x="518" y="192" font-size="12" fill="#bac2de" text-anchor="end">0 hrs 58 mins · 4.5%</text>
+<rect x="22" y="198" width="496" height="7" rx="3.5" fill="#45475a"/>
+<rect x="22" y="198" width="22.52" height="7" rx="3.5" fill="#a6e3a1"/>
+<text x="22" y="226" font-size="13">Kotlin</text>
+<text x="518" y="226" font-size="12" fill="#bac2de" text-anchor="end">0 hrs 48 mins · 3.8%</text>
+<rect x="22" y="232" width="496" height="7" rx="3.5" fill="#45475a"/>
+<rect x="22" y="232" width="18.70" height="7" rx="3.5" fill="#f9e2af"/>
+<text x="22" y="260" font-size="13">Nix</text>
+<text x="518" y="260" font-size="12" fill="#bac2de" text-anchor="end">0 hrs 34 mins · 2.7%</text>
+<rect x="22" y="266" width="496" height="7" rx="3.5" fill="#45475a"/>
+<rect x="22" y="266" width="13.29" height="7" rx="3.5" fill="#fab387"/>
+<text x="22" y="294" font-size="13">Python</text>
+<text x="518" y="294" font-size="12" fill="#bac2de" text-anchor="end">0 hrs 20 mins · 1.6%</text>
+<rect x="22" y="300" width="496" height="7" rx="3.5" fill="#45475a"/>
+<rect x="22" y="300" width="7.69" height="7" rx="3.5" fill="#f38ba8"/>
+<text x="22" y="328" font-size="13">Bash</text>
+<text x="518" y="328" font-size="12" fill="#bac2de" text-anchor="end">0 hrs 5 mins · 0.4%</text>
+<rect x="22" y="334" width="496" height="7" rx="3.5" fill="#45475a"/>
+<rect x="22" y="334" width="1.79" height="7" rx="3.5" fill="#89dceb"/>
+</g></svg>
