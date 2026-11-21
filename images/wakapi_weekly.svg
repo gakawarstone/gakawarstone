@@ -2,37 +2,37 @@
 <rect width="540" height="352" rx="10" fill="#1e1e2e"/>
 <g font-family="Segoe UI, Ubuntu, sans-serif" fill="#cdd6f4">
 <text x="22" y="30" font-size="16" font-weight="600">Weekly coding languages</text>
-<text x="22" y="52" font-size="12" fill="#a6adc8">21 hrs 10 mins · last 7 days</text>
+<text x="22" y="52" font-size="12" fill="#a6adc8">19 hrs 2 mins · last 7 days</text>
 <text x="22" y="90" font-size="13">Vibecoding</text>
-<text x="518" y="90" font-size="12" fill="#bac2de" text-anchor="end">15 hrs 13 mins · 71.9%</text>
+<text x="518" y="90" font-size="12" fill="#bac2de" text-anchor="end">13 hrs 41 mins · 71.8%</text>
 <rect x="22" y="96" width="496" height="7" rx="3.5" fill="#45475a"/>
-<rect x="22" y="96" width="356.43" height="7" rx="3.5" fill="#cba6f7"/>
+<rect x="22" y="96" width="356.38" height="7" rx="3.5" fill="#cba6f7"/>
 <text x="22" y="124" font-size="13">Elm</text>
-<text x="518" y="124" font-size="12" fill="#bac2de" text-anchor="end">2 hrs 27 mins · 11.6%</text>
+<text x="518" y="124" font-size="12" fill="#bac2de" text-anchor="end">2 hrs 27 mins · 12.9%</text>
 <rect x="22" y="130" width="496" height="7" rx="3.5" fill="#45475a"/>
-<rect x="22" y="130" width="57.39" height="7" rx="3.5" fill="#89b4fa"/>
-<text x="22" y="158" font-size="13">Markdown</text>
-<text x="518" y="158" font-size="12" fill="#bac2de" text-anchor="end">1 hrs 3 mins · 5.0%</text>
+<rect x="22" y="130" width="63.84" height="7" rx="3.5" fill="#89b4fa"/>
+<text x="22" y="158" font-size="13">Kotlin</text>
+<text x="518" y="158" font-size="12" fill="#bac2de" text-anchor="end">0 hrs 48 mins · 4.2%</text>
 <rect x="22" y="164" width="496" height="7" rx="3.5" fill="#45475a"/>
-<rect x="22" y="164" width="24.60" height="7" rx="3.5" fill="#94e2d5"/>
-<text x="22" y="192" font-size="13">Kotlin</text>
-<text x="518" y="192" font-size="12" fill="#bac2de" text-anchor="end">0 hrs 48 mins · 3.8%</text>
+<rect x="22" y="164" width="20.88" height="7" rx="3.5" fill="#94e2d5"/>
+<text x="22" y="192" font-size="13">Markdown</text>
+<text x="518" y="192" font-size="12" fill="#bac2de" text-anchor="end">0 hrs 47 mins · 4.1%</text>
 <rect x="22" y="198" width="496" height="7" rx="3.5" fill="#45475a"/>
-<rect x="22" y="198" width="18.80" height="7" rx="3.5" fill="#a6e3a1"/>
+<rect x="22" y="198" width="20.39" height="7" rx="3.5" fill="#a6e3a1"/>
 <text x="22" y="226" font-size="13">Nix</text>
-<text x="518" y="226" font-size="12" fill="#bac2de" text-anchor="end">0 hrs 37 mins · 2.9%</text>
+<text x="518" y="226" font-size="12" fill="#bac2de" text-anchor="end">0 hrs 29 mins · 2.6%</text>
 <rect x="22" y="232" width="496" height="7" rx="3.5" fill="#45475a"/>
-<rect x="22" y="232" width="14.48" height="7" rx="3.5" fill="#f9e2af"/>
+<rect x="22" y="232" width="12.70" height="7" rx="3.5" fill="#f9e2af"/>
 <text x="22" y="260" font-size="13">Python</text>
-<text x="518" y="260" font-size="12" fill="#bac2de" text-anchor="end">0 hrs 26 mins · 2.0%</text>
+<text x="518" y="260" font-size="12" fill="#bac2de" text-anchor="end">0 hrs 18 mins · 1.6%</text>
 <rect x="22" y="266" width="496" height="7" rx="3.5" fill="#45475a"/>
-<rect x="22" y="266" width="10.12" height="7" rx="3.5" fill="#fab387"/>
+<rect x="22" y="266" width="7.99" height="7" rx="3.5" fill="#fab387"/>
 <text x="22" y="294" font-size="13">CSS</text>
-<text x="518" y="294" font-size="12" fill="#bac2de" text-anchor="end">0 hrs 9 mins · 0.7%</text>
+<text x="518" y="294" font-size="12" fill="#bac2de" text-anchor="end">0 hrs 9 mins · 0.8%</text>
 <rect x="22" y="300" width="496" height="7" rx="3.5" fill="#45475a"/>
-<rect x="22" y="300" width="3.57" height="7" rx="3.5" fill="#f38ba8"/>
+<rect x="22" y="300" width="3.97" height="7" rx="3.5" fill="#f38ba8"/>
 <text x="22" y="328" font-size="13">TSX</text>
-<text x="518" y="328" font-size="12" fill="#bac2de" text-anchor="end">0 hrs 7 mins · 0.5%</text>
+<text x="518" y="328" font-size="12" fill="#bac2de" text-anchor="end">0 hrs 7 mins · 0.6%</text>
 <rect x="22" y="334" width="496" height="7" rx="3.5" fill="#45475a"/>
-<rect x="22" y="334" width="2.63" height="7" rx="3.5" fill="#89dceb"/>
+<rect x="22" y="334" width="2.93" height="7" rx="3.5" fill="#89dceb"/>
 </g></svg>
