@@ -4,35 +4,35 @@
 <text x="22" y="30" font-size="16" font-weight="600">Weekly coding languages</text>
 <text x="22" y="52" font-size="12" fill="#a6adc8">14 hrs 29 mins · last 7 days</text>
 <text x="22" y="90" font-size="13">Vibecoding</text>
-<text x="518" y="90" font-size="12" fill="#bac2de" text-anchor="end">10 hrs 43 mins · 74.0%</text>
+<text x="518" y="90" font-size="12" fill="#bac2de" text-anchor="end">9 hrs 39 mins · 66.7%</text>
 <rect x="22" y="96" width="496" height="7" rx="3.5" fill="#45475a"/>
-<rect x="22" y="96" width="366.99" height="7" rx="3.5" fill="#cba6f7"/>
+<rect x="22" y="96" width="330.63" height="7" rx="3.5" fill="#cba6f7"/>
 <text x="22" y="124" font-size="13">Elm</text>
 <text x="518" y="124" font-size="12" fill="#bac2de" text-anchor="end">2 hrs 36 mins · 18.0%</text>
 <rect x="22" y="130" width="496" height="7" rx="3.5" fill="#45475a"/>
-<rect x="22" y="130" width="89.13" height="7" rx="3.5" fill="#89b4fa"/>
-<text x="22" y="158" font-size="13">Python</text>
-<text x="518" y="158" font-size="12" fill="#bac2de" text-anchor="end">0 hrs 18 mins · 2.1%</text>
+<rect x="22" y="130" width="89.08" height="7" rx="3.5" fill="#89b4fa"/>
+<text x="22" y="158" font-size="13">Qml</text>
+<text x="518" y="158" font-size="12" fill="#bac2de" text-anchor="end">0 hrs 43 mins · 4.9%</text>
 <rect x="22" y="164" width="496" height="7" rx="3.5" fill="#45475a"/>
-<rect x="22" y="164" width="10.37" height="7" rx="3.5" fill="#94e2d5"/>
-<text x="22" y="192" font-size="13">CSS</text>
-<text x="518" y="192" font-size="12" fill="#bac2de" text-anchor="end">0 hrs 13 mins · 1.5%</text>
+<rect x="22" y="164" width="24.35" height="7" rx="3.5" fill="#94e2d5"/>
+<text x="22" y="192" font-size="13">Python</text>
+<text x="518" y="192" font-size="12" fill="#bac2de" text-anchor="end">0 hrs 31 mins · 3.6%</text>
 <rect x="22" y="198" width="496" height="7" rx="3.5" fill="#45475a"/>
-<rect x="22" y="198" width="7.59" height="7" rx="3.5" fill="#a6e3a1"/>
-<text x="22" y="226" font-size="13">Markdown</text>
-<text x="518" y="226" font-size="12" fill="#bac2de" text-anchor="end">0 hrs 10 mins · 1.1%</text>
+<rect x="22" y="198" width="17.96" height="7" rx="3.5" fill="#a6e3a1"/>
+<text x="22" y="226" font-size="13">Html</text>
+<text x="518" y="226" font-size="12" fill="#bac2de" text-anchor="end">0 hrs 14 mins · 1.6%</text>
 <rect x="22" y="232" width="496" height="7" rx="3.5" fill="#45475a"/>
-<rect x="22" y="232" width="5.51" height="7" rx="3.5" fill="#f9e2af"/>
-<text x="22" y="260" font-size="13">TSX</text>
-<text x="518" y="260" font-size="12" fill="#bac2de" text-anchor="end">0 hrs 7 mins · 0.8%</text>
+<rect x="22" y="232" width="7.79" height="7" rx="3.5" fill="#f9e2af"/>
+<text x="22" y="260" font-size="13">CSS</text>
+<text x="518" y="260" font-size="12" fill="#bac2de" text-anchor="end">0 hrs 13 mins · 1.5%</text>
 <rect x="22" y="266" width="496" height="7" rx="3.5" fill="#45475a"/>
-<rect x="22" y="266" width="3.82" height="7" rx="3.5" fill="#fab387"/>
-<text x="22" y="294" font-size="13">Html</text>
-<text x="518" y="294" font-size="12" fill="#bac2de" text-anchor="end">0 hrs 5 mins · 0.6%</text>
+<rect x="22" y="266" width="7.59" height="7" rx="3.5" fill="#fab387"/>
+<text x="22" y="294" font-size="13">Markdown</text>
+<text x="518" y="294" font-size="12" fill="#bac2de" text-anchor="end">0 hrs 10 mins · 1.2%</text>
 <rect x="22" y="300" width="496" height="7" rx="3.5" fill="#45475a"/>
-<rect x="22" y="300" width="2.93" height="7" rx="3.5" fill="#f38ba8"/>
-<text x="22" y="328" font-size="13">Qml</text>
-<text x="518" y="328" font-size="12" fill="#bac2de" text-anchor="end">0 hrs 4 mins · 0.5%</text>
+<rect x="22" y="300" width="5.75" height="7" rx="3.5" fill="#f38ba8"/>
+<text x="22" y="328" font-size="13">TSX</text>
+<text x="518" y="328" font-size="12" fill="#bac2de" text-anchor="end">0 hrs 7 mins · 0.8%</text>
 <rect x="22" y="334" width="496" height="7" rx="3.5" fill="#45475a"/>
-<rect x="22" y="334" width="2.28" height="7" rx="3.5" fill="#89dceb"/>
+<rect x="22" y="334" width="3.82" height="7" rx="3.5" fill="#89dceb"/>
 </g></svg>
